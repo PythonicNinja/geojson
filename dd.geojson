@@ -3,7 +3,8 @@
   "features": [
     {
       "properties": {
-        "code": 10
+        "code": 10,
+        "amount": 20
       },
       "type": "Feature",
       "geometry": {
